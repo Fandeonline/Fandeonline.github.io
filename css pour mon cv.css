@@ -1,0 +1,58 @@
+body{font-family: 'Montserrat', sans-serif;
+    font-size: 85% ;
+    color :black;
+    margin: 0px;
+}
+h1,h2{
+    text-align: center;
+}
+h3{
+    color:rgb(194, 9, 9) ;
+    text-decoration: underline;
+}
+ul,li {list-style-type: none;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+    }
+
+.coordonner{font-style: italic;
+    height: 224%;
+    width: 300%;
+}
+label {
+    padding-right:10px;
+    font-size: 1rem;
+}
+
+em{ font-style: oblique;
+    
+    left: 15%;
+}
+span{ color: red;
+
+}
+h1{font-weight: bolder;
+color: black;
+font-size: 225%;
+}
+
+.cadre{ background-color: rgb(46, 42, 42);
+    color: white;
+    width: 28%;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 60px ;
+}
+ul{
+list-style: none;
+margin-block-start:0 ;
+margin-block-end: 0;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 0;
+margin-top: 5px;
+}
