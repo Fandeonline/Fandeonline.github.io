@@ -3,7 +3,7 @@ body{
     margin: 0px;
     background-image:url(https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg);
   }
-h1,ul,li{
+h1,ul,li,p{
     color:black;
 }
 .fond{
@@ -17,6 +17,6 @@ a{
     text-decoration: none;
 }
 div {background-color:rgb(43, 97, 167);
-height: 20%;
-width:50% ;
+height:22%;
+width:45% ;
 }
